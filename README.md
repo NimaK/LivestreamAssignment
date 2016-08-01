@@ -3,6 +3,8 @@
 Welcome to the LivestreamAssignment wiki!
 
 # Setup
+Developed using Node 4.4.7.
+
 First install the dependencies
 
     npm install
