@@ -1,0 +1,24 @@
+{
+  "name": "livestream_assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "director_service.js",
+  "dependencies": {
+    "redis": "^2.6.2",
+    "restify": "^4.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NimaK/LivestreamAssignment.git"
+  },
+  "author": "Nima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NimaK/LivestreamAssignment/issues"
+  },
+  "homepage": "https://github.com/NimaK/LivestreamAssignment#readme"
+}
