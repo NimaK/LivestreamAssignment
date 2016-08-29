@@ -2,6 +2,8 @@
 
 Welcome to the LivestreamAssignment wiki!
 
+Take home assignment from Livestream.
+
 # Setup
 Developed using Node 4.4.7.
 
